@@ -1,6 +1,6 @@
 <div align="center">
   
-# MIDAS: Modeling Ground-Truth Distributions with Dark Knowledge for Domain Generalized Stereo Matching
+## MIDAS: Modeling Ground-Truth Distributions with Dark Knowledge for Domain Generalized Stereo Matching
 </div>
 
 <h3 align="center">
