@@ -5,8 +5,8 @@
 
 <h3 align="center">
   <a href="https://arxiv.org/abs/2503.04376">Paper</a> | 
-  <a href="https://xxxupeng.github.io/Projects/iccv2025/ICCV_Poster.pdf">Poster</a> | 
-  <a href="https://xxxupeng.github.io/Projects/iccv2025/ICCV_Pre.pdf">Slide</a>
+  <a href="https://xxxupeng.github.io/projects/iccv2025/ICCV_Poster.pdf">Poster</a> | 
+  <a href="https://xxxupeng.github.io/projects/iccv2025/iccv_pre.pdf">Slide</a>
 </h3>
 
 
