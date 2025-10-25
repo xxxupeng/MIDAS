@@ -4,8 +4,11 @@
 </div>
 
 <h3 align="center">
-  <a href="https://arxiv.org/abs/2503.04376">Paper</a>
+  <a href="https://arxiv.org/abs/2503.04376">Paper</a> | 
+  <a href="https://xxxupeng.github.io/Projects/iccv2025/ICCV_Poster.pdf">Poster</a> | 
+  <a href="https://xxxupeng.github.io/Projects/iccv2025/ICCV_Pre.pdf">Slide</a>
 </h3>
+
 
 ### News
 - MIDAS is selected for an **oral** presentation.
