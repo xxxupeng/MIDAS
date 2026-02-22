@@ -11,7 +11,7 @@
 
 
 ### News
-- MIDAS is selected for an **oral** presentation.
+- MIDAS is selected for an **oral** presentation (Findings).
 
 - Click <a href='https://github.com/xxxupeng/stereo_toolbox'>here</a> for the latest version of stereo_toolbox.
 
